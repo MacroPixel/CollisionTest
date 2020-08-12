@@ -1,0 +1,1 @@
+I haven't been successful in finding a way to publishing the entire project in a way that allows prople to download it into their own IDE, so for now you need to have Code::Blocks installed. If anybody can show me how to publish this in a way that anybody can create their own version of the project, I'm all ears :D
